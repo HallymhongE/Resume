@@ -27,3 +27,6 @@
 |Java 프로그래밍|java 개요|3학점|
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1학점|
 
+github address : [jinhong][github]
+
+[github]:http://github.com/HallymhongE
