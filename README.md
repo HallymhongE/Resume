@@ -1,5 +1,4 @@
-
-<img src=hallym.png height=30% width=30% text-aling:center>
+<center><img src=hallym.png height=30% width=30%></center>
 # 한림대학교 소프트웨어융합대학  
 ---  
 
