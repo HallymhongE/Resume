@@ -1,9 +1,10 @@
 <p align="center"><img src="/hallym.png" width="300" height="300"></p>  
-
----  
 <p align="center"><STRONG><font size="7">
 자기소개서
   </font></STRONG></p> 
+
+<p align="center">안녕하세요 한림대학교 14학번 박진홍입니다. 잘부탁드리겠습니다.</p>  
+
    
 ---    
   
@@ -46,9 +47,7 @@
 |수강과목/학점|4과목|10학점|
 
 ---  
-<p align="center">소개글</p>
-</br>
-<p align="center">안녕하세요 한림대학교 14학번 박진홍입니다. 잘부탁드리겠습니다.</p>
+
 
 [hallym]:http://hallym.ac.kr
 [github]:http://github.com/HallymhongE
