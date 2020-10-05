@@ -1,15 +1,19 @@
-<p align="center"><img src="/hallym.png" width="300" height="300"></p>
----
-#  자기소개서  
+<p align="center"><img src="/hallym.png" width="300" height="300"></p>  
+
 ---  
-
-이름 : 박진홍  
-소속 : 소프트융합대학  
-전공 : 스마트IoT  
-학번 : 20145316  
+<p align="center"><STRONG><font size="7">
+자기소개서
+  </font></STRONG></p> 
+   
+---    
+# 개인정보  <br>
+* 이름 : 박진홍  
+* 소속 : 소프트융합대학    
+* 전공 : 스마트IoT  
+* 학번 : 20145316   
 
 ---
-관심분야   
+관심분야     
 * 생물정보학  
 * **인공지능**   
 * 의료정보학  
