@@ -1,13 +1,14 @@
-<center><img src=hallym.png height=30% width=30%></center>
-# 한림대학교 소프트웨어융합대학  
+<p align="center"><img src="/hallym.png" width="300" height="300"></p>
+---
+#  자기소개서  
 ---  
 
+이름 : 박진홍  
+소속 : 소프트융합대학  
+전공 : 스마트IoT  
+학번 : 20145316  
 
 ---
-
-소속 : 소프트융합대학  
-전공 : 빅데이터 전공  
-
 관심분야   
 * 생물정보학  
 * **인공지능**   
