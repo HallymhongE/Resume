@@ -6,7 +6,7 @@
 ---    
   
   
-## 개인정보  
+# 개인정보  
 * 이름        : 박진홍(朴鎭弘)<br><br>
 * 생년월일    : 1995년 07월 19일<br><br>
 * 거주지      :  
@@ -19,7 +19,7 @@
 * git 주소 : [Jinhong_GIT][github] [![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)](https://github.com/HallymhongE/Resume)<br><br>
 
 
-## 특기사항
+# 특기사항
 * 교내 해커톤 대회 `금상` 수상, 차세대 AI-통신 LAB 연구실 학부 연구생  
 
 * (합)동양아이텍 인턴쉽 경험  
@@ -31,8 +31,48 @@
 
 
 
-## 기술/능력부분
+# 기술/능력부분
 
+### 📃 Languages
+
+<details>
+<summary>View cheatsheets</summary>
+
+<br>
+
+ - C <br><br>
+ - C++ <br><br>
+ - Python <br><br>
+ - Java <br><br>
+ 
+ </details>
+
+<br>
+
+ ### 📚 OS & DB
+<details>
+<summary>View cheatsheets</summary>
+<br>
+
+ - window <br><br>
+ - Linux <br><br>
+ - Audiono <br><br>
+ - RasberryPi <br><br>
+ - SQL<br><br>
+ </details>
+
+<br>
+
+### 🔧 Tools
+<details>
+<summary>View cheatsheets</summary>
+<br>
+ 
+ - git<br><br>
+ - HTML/CSS<br><br>
+ - VIM<br><br>
+ - Ubuntu,Centos<br><br>
+ </details>
 
     
 ## 관심분야     
