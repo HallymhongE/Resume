@@ -9,7 +9,7 @@
 * 전공 : 스마트IoT  
 * 학번 : 20145316 
 * git 주소 : [Jinhong_GIT][github] ![GitHub](https://img.shields.io/github/license/HallymhongE/Resume?color=blue&label=github&logo=go&logoColor=red&style=plastic)
-
+![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)
 <p align="center"><img src="/hallym.png" width="300" height="300"></p>  
 <p align="center"><STRONG><font size="7">
 자기소개서
