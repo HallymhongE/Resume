@@ -29,7 +29,7 @@
 * 학창시절 많은 회장(동아리 회장, 총동아리 연합회 회장,창업동아리)과 `리더`로써 많은 경험과 덕목을 쌓고, 대학생시절 기획부분과 진행부분을 함께 진행하여 프로젝트를 많이 진행  
     >참고자료 :[리더쉽부분][hallym_1] [해커톤대회][hallym_2]
 
-
+<br>
 
 # 기술/능력부분
 
@@ -68,6 +68,7 @@
 <summary>View cheatsheets</summary>
 <br>
  
+ - TCP/IP 프로토콜<br><br>
  - git<br><br>
  - HTML/CSS<br><br>
  - VIM<br><br>
