@@ -1,26 +1,24 @@
 # 박진홍학생의 자기소개서!  
-  (introduction by jinhong Park)   
+<p align="right">작성일자 : 2020.11.03</p>  
 <p align="center"><img src="/hallym.png" width="300" height="300"></p>  
 <p align="center"><STRONG><font size="7">
 자기소개서
   </font></STRONG></p> 
 
-<p align="center">안녕하세요 한림대학교 14학번 박진홍입니다. 잘부탁드리겠습니다.</p>  
-
 ---    
   
   
 ## 개인정보  
-* 이름        : 박진홍(朴鎭弘)
-* 생년월일    : 1995년 07월 19일
+* 이름        : 박진홍(朴鎭弘)<br><br>
+* 생년월일    : 1995년 07월 19일<br><br>
 * 거주지      :  
   1)서울_중랑구    
-  2)강원도_춘천
-* 학교        : [한림대학교][hallym]
-* 소속 : 소프트융합대학    
-* 전공 : 스마트IoT  
-* 학번 : 20145316 
-* git 주소 : [Jinhong_GIT][github] [![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)](https://github.com/HallymhongE/Resume)
+  2)강원도_춘천<br><br>
+* 학교        : [한림대학교][hallym]<br><br>
+* 소속 : 소프트융합대학<br><br>    
+* 전공 : 스마트IoT<br><br>  
+* E-mail : 95park@naver.com<br><br> 
+* git 주소 : [Jinhong_GIT][github] [![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)](https://github.com/HallymhongE/Resume)<br><br>
 
 
 # 관심분야     
