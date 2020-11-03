@@ -1,8 +1,8 @@
  
-<p align="center"><img src="/hallym.png" width="250" height="250"></p>  
+<p align="center"><img src="/computer.gif" width="300" height="300"></p>  
   <h2 align="center">자기 소개서(한국어 버전)</h2>
     <p align="center">열정과 도전의 정신이 많은 대한민국의 청년 박진홍 입니다! 그럼 시작하겠습니다!</p>  
-
+     
 ---    
   
   
