@@ -1,9 +1,9 @@
 # 박진홍학생의 자기소개서!  
-<p align="right">작성일자 : 2020.11.03</p>  
 <p align="center"><img src="/hallym.png" width="300" height="300"></p>  
 <p align="center"><STRONG><font size="7">
 자기소개서
   </font></STRONG></p> 
+<p align="center">열정과 도전의 정신이 많은 대한민국의 청년 박진홍 입니다! 그럼 시작하겠습니다!</p>  
 
 ---    
   
@@ -14,14 +14,28 @@
 * 거주지      :  
   1)서울_중랑구    
   2)강원도_춘천<br><br>
-* 학교        : [한림대학교][hallym]<br><br>
+* 최종학력        : [한림대학교 4학년][hallym]<br><br>
 * 소속 : 소프트융합대학<br><br>    
 * 전공 : 스마트IoT<br><br>  
 * E-mail : 95park@naver.com<br><br> 
 * git 주소 : [Jinhong_GIT][github] [![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)](https://github.com/HallymhongE/Resume)<br><br>
 
 
-# 관심분야     
+## 특기사항
+* 교내 해커톤 대회 `금상` 수상, 차세대 AI-통신 LAB 연구실 학부 연구생  
+
+* (합)동양아이텍 인턴쉽 경험  
+
+* 2020 한림대학교 `리더쉽부분 학생대표` 수상  
+
+* 학창시절 많은 회장(동아리 회장, 총동아리 연합회 회장,창업동아리)과 `리더`로써 많은 경험과 덕목을 쌓고, 대학생시절 기획부분과 진행부분을 함께 진행하여 프로젝트를 많이 진행  
+    >참고자료 :[리더쉽부분][hallym_1] [해커톤대회][hallym_2]
+
+
+## 기술/능력부분
+
+    
+## 관심분야     
 * 졸업 / 취업준비  
 * **국가고시 시험 패스**   
 * 컴퓨터  
@@ -55,3 +69,5 @@
 
 [hallym]:http://hallym.ac.kr
 [github]:http://github.com/HallymhongE
+[hallym_1]:http://blog.naver.com/PostView.nhn?blogId=hallymde1330&logNo=221727885654&categoryNo=62&parentCategoryNo=62&from=thumbnailList
+[hallym_2]:https://fb.watch/1x1BlZr3L9/
