@@ -1,11 +1,19 @@
 # 박진홍학생의 자기소개서!  
   (introduction by jinhong Park)   
+<p align="center"><img src="/hallym.png" width="300" height="300"></p>  
+<p align="center"><STRONG><font size="7">
+자기소개서
+  </font></STRONG></p> 
 
+<p align="center">안녕하세요 한림대학교 14학번 박진홍입니다. 잘부탁드리겠습니다.</p>  
 
+---    
+  
+  
 ## 개인정보  
 * 이름        : 박진홍(朴鎭弘)
 * 생년월일    : 1995년 07월 19일
-* 거주지      :
+* 거주지      :  
   1)서울_중랑구    
   2)강원도_춘천
 * 학교        : [한림대학교][hallym]
@@ -15,17 +23,6 @@
 * git 주소 : [Jinhong_GIT][github] [![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)](https://github.com/HallymhongE/Resume)
 
 
-<p align="center"><img src="/hallym.png" width="300" height="300"></p>  
-<p align="center"><STRONG><font size="7">
-자기소개서
-  </font></STRONG></p> 
-
-<p align="center">안녕하세요 한림대학교 14학번 박진홍입니다. 잘부탁드리겠습니다.</p>  
-
-   
----    
-  
----  
 # 관심분야     
 * 졸업 / 취업준비  
 * **국가고시 시험 패스**   
