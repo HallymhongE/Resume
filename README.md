@@ -1,12 +1,13 @@
-# introduction by jinhong Park   
+# 박진홍학생의 자기소개서!  
+  (introduction by jinhong Park)   
+
 
 ## 개인정보  
 * 이름        : 박진홍(朴鎭弘)
 * 생년월일    : 1995년 07월 19일
-* 거주지      :   
+* 거주지      :
   1)서울_중랑구    
   2)강원도_춘천
-  
 * 학교        : [한림대학교][hallym]
 * 소속 : 소프트융합대학    
 * 전공 : 스마트IoT  
