@@ -1,8 +1,14 @@
-#introduction   
+# introduction by jinhong Park   
 
-##박진홍이란?
-
-
+## 개인정보  
+* 이름        : 박진홍(朴鎭弘)
+* 생년월일    : 1995년 07월 19일
+* 거주지      : 1)서울_중랑구   2)강원도_춘천
+* 학교        : [한림대학교 바로가기][hallym]
+* 소속 : 소프트융합대학    
+* 전공 : 스마트IoT  
+* 학번 : 20145316 
+* git 주소 : [jinhong git 홈페이지 바로가기][github]  
 
 <p align="center"><img src="/hallym.png" width="300" height="300"></p>  
 <p align="center"><STRONG><font size="7">
@@ -14,14 +20,6 @@
    
 ---    
   
-# 개인정보  
-* 이름 : 박진홍  
-* 학교 : [한림대학교 바로가기][hallym]
-* 소속 : 소프트융합대학    
-* 전공 : 스마트IoT  
-* 학번 : 20145316 
-* git 주소 : [jinhong git 홈페이지 바로가기][github]
-
 ---  
 # 관심분야     
 * 졸업 / 취업준비  
