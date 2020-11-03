@@ -18,6 +18,19 @@
 * E-mail : 95park@naver.com<br><br> 
 * git 주소 : [Jinhong_GIT][github] [![Website](https://img.shields.io/website?color=blue&down_message=Go&label=Github&style=plastic&up_color=blue&url=https%3A%2F%2Fhttps%3A%2F%2Fgithub.com%2FHallymhongE%2FResume%2Fblob%2Fmaster%2FREADME.md)](https://github.com/HallymhongE/Resume)<br><br>
 
+## 자기소개서
+ 안녕하십니까 저는 꿈과 희망이 가득하고 항상 `발전하며 비상하는 학생` 박진홍입니다.
+ 
+ 많은 경험과 리더쉽으로 신입사원 답지 않는 추진력을 바탕으로 팀의 에너지가 되겠습니다!.
+ 
+ 저의 강점은 업무 속도와 협엽인거 같습니다. 업무보고는 10장, 20장짜리의 보고서보다는 1장의 보고서로 임펙트있게 보고드리겠습니다.
+ 
+ 팀프로젝트는 인원들과 협엽을 하여 팀원들에게 도움이 되고, 회사에게는 이익창출을 할 수 있게 하겠습니다.
+ 
+ `포기` 라는 말보다는 `도전`이라는 말을 좋아하는 저 <strong>박진홍</strong> 입니다.
+ 
+ 
+<br><br>
 
 # 특기사항
 * 교내 해커톤 대회 `금상` 수상, 차세대 AI-통신 LAB 연구실 학부 연구생  
@@ -40,8 +53,8 @@
 
 <br>
 
- - C <br><br>
- - C++ <br><br>
+ - `C` <br><br>
+ - `C++` <br><br>
  - Python <br><br>
  - Java <br><br>
  
@@ -55,9 +68,9 @@
 <br>
 
  - window <br><br>
- - Linux <br><br>
+ - `Linux` <br><br>
  - Audiono <br><br>
- - RasberryPi <br><br>
+ - `RasberryPi` <br><br>
  - SQL<br><br>
  </details>
 
@@ -72,7 +85,7 @@
  - git<br><br>
  - HTML/CSS<br><br>
  - VIM<br><br>
- - Ubuntu,Centos<br><br>
+ - `Ubuntu`,Centos<br><br>
  </details>
 
 <br>
@@ -83,7 +96,7 @@
 * 시스템 엔지니어
 * 기술영업(QA)
 
-#### 기술/능력
+### 기술/능력
 
 |기술/능력|활용수준|활용기간|연관교육명|
 |---|:---:|:---:|:---:|
